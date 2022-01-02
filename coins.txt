@@ -1,8 +1,0 @@
-money man
-
-Bitcoin: bc1qmaenaaulhfrhkweaz9npwd4dr60l3676naalx5
-Litecoin: LPowohi1gbvJPUC1bfSxgcTpr5NRUtYwZ5
-Bitcoin Cash: qzkkzpqdn8wq3238angal9gul8xq83sjuuzww7fgr4
-Ethereum: 0x569fbE2B73cF3A5eF7a8b5af27f70611E1f9919d
-Nano: nano_1ck15c68x1w6gx65zntndck9rg7nutmsbstepsjy6dtc1z877duw5pg8mdx9
-Monero: 43hnUSFsT64G2cpTpUkqeQ5qrzq65Z6EBDAjh9WHm7QyZy2YLwfq4VgPvXqzfXesYmaATZwXMgxP17X9hK4rD2giCYRrDpY
