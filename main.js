@@ -1,2 +1,0 @@
-function hehe(){document.removeEventListener("click",hehe,null);let e=new Audio("s.mp3");e.loop=!0;e.play()}
-document.addEventListener("click",hehe);let typur=document.getElementById("typur"),typewriter=new Typewriter(typur,{loop:!0});typewriter.typeString('minecraft <i class="fab fa-bitcoin"></i> bandit').pauseFor(1e3).deleteAll().typeString("egod").pauseFor(1e3).deleteAll().typeString("mcpe gang member").pauseFor(1e3).start()
